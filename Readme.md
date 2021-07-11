@@ -1,6 +1,11 @@
 # SDLC Activity Based Learning
-TIC TAC TOE 
-![tic tac](https://user-images.githubusercontent.com/86605697/124718198-7aadec00-df23-11eb-9525-007661f721c4.PNG)
+Snake Water Gun Game
+Snakewatergun game by the use of c programming language and functions.
+</p> 
+<p align="center"><img src="https://img.shields.io/badge/Author Sambit Nayak-green.svg"> 
+</p>
+
+![download](https://user-images.githubusercontent.com/68494604/92555391-2c897700-f285-11ea-8b41-e0791a3822ae.png)
 
 
 ## Folder Structure
