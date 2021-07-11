@@ -1,5 +1,4 @@
 # SDLC Activity Based Learning
-Snake Water Gun Game
 Snakewatergun game by the use of c programming language and functions.
 </p> 
 <p align="center"><img src="https://img.shields.io/badge/Author Sambit Nayak-green.svg"> 
