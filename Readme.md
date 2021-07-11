@@ -1,5 +1,5 @@
 # SDLC Activity Based Learning
-1.https://rgcrazytech.blogspot.com/2020/12/snake-water-gun-game-in-python.html
+1.https://content.instructables.com/ORIG/FAH/9VH1/I7RGDGX7/FAH9VH1I7RGDGX7.jpg
 
 
 ## Folder Structure
