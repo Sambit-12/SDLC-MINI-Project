@@ -12,10 +12,9 @@ Folder             | Description
 
 ## Contributors List and Summary
 
-Sf.Id |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
--------|---------|----------------|----------------|---------------|-------------|--------------
-302954 | SAMBIT NAYAK Game App with  0                 0              3              3
-                  snake Water gun                                     
+Sf.Id |  Name        |    Features         | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass|
+-------|-------------|---------------------|----------------|---------------|-------------|--------------|
+302954 | Sambit Nayak|Snake Water Gun game |   0            |   0           |   0         |  0           |
 
 
 ## Challenges Faced and How Was It Overcome
