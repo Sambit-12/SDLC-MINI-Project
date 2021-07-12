@@ -9,7 +9,6 @@ Build Check | Code Quality | Unit Testing | Contribution Check
 ![](https://www.code-inspector.com/project/24716/status/svg)
 <a href="https://frontend.code-inspector.com/public/user/github/Sambit-12">
    <img src="https://code-inspector.com/public/badge/user/github/Sambit-12?style=light" alt="code inspector badge" />
-</a>
 Snakewatergun game by the use of c programming language and functions.
 </p> 
 <p align="center"><img src="https://img.shields.io/badge/Author Sambit Nayak-green.svg"> 
