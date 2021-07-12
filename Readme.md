@@ -21,8 +21,9 @@ Sf.Id |  Name        |    Features         | Issuess Raised |Issues Resolved|No 
 -------|-------------|---------------------|----------------|---------------|-------------|--------------|
 302954 | Sambit Nayak|Snake Water Gun game |    0           |   0           |   3         |  3           |
 
-><p>## Challenges Faced and How Was It Overcome</p>
+## Challenges Faced and How Was It Overcome
 1.If the game has been played multiple times without stopping, then print the total number of times the game has played, as well as how many times the user wins and loses with a number of draws.
+
 2. There is no option to quit in between by pressing No button if you choose how many times you want to play till that time you habe to play.
 
 
