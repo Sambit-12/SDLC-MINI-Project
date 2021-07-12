@@ -12,7 +12,8 @@ The cost of the system is defined upon how many times the user wants to play the
     3.In the case of Gun vs. Snake, Gun will kill the snake and win.
     4.In situations where both parties choose the same object, the result will be a draw.
 ## Defining Our System
-  ![Flowchart]https://app.creately.com/diagram/7gEruztQvfu/view
+  ![flowchart Snake Water Gun](https://user-images.githubusercontent.com/86225003/125267438-6fdcc800-e324-11eb-9d81-5949eb203b4c.jpg)
+
 ## SWOT ANALYSIS
 ![SWOT-Sample](Link to Pic)
 
