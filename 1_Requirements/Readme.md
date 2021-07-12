@@ -38,6 +38,29 @@ This type of game is played when there wont be any internet connection you have 
 ><p> 3.In each round your scores will be displayed till the time user chose to play.</p>
 ><p> 4.Final score will be displayed indicates you lost or its a draw or you won by values -Ve , 0 and +ve respectively.</p>
 
+###### High Level Requirements:
+| ID           | Description        | Status (Implemented/Future)       |
+| :------------- | :----------: | -----------: |
+|  01             | User Inputs   | Implemented   |
+|  02             | Computer Inputs    | Implemented       |
+|  03             | Final Output | Implemented |
+
+###### Low Level Requirements:
+| ID  | Description        | Status (Implemented/Future)       |
+| :-------| :----------: | -----------: |
+|  01      |   Display - List of operations available |  Implemented    |
+|  02      |   Input - Choice of operation |  Implemented    |
+|  03      |   Input - Order of matrix |  Implemented    |
+|  04      |   Input - Matrix elements |  Implemented    |
+|  05      |   Addition of 2 matrices|  Implemented    |
+|  06      |   Difference of one matrix from other |  Implemented    |
+|  07      |   Multiplication of 2 matrices |  Implemented    |
+|  08      |   Transpose of a matrix |  Implemented    |
+|  09      |   Determinant of a matrix |  Implemented    |
+|  10      |   Inverse of a matrix |  Implemented    |
+|  11      |   Output - Resultant matrix | Implemented      |
+|  12      |  Display Choice - To terminate program or go to main menu again  |  Implemented    |
+|  13     |   User Input - Choice to terminate or return to main menu |  Implemented    |
 
 
 

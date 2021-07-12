@@ -1,15 +1,11 @@
 /**
- * @file snake_water_gun.c
- * @author Sambit Nayak (nayaksambit99@gmail.com)
- * @brief
- * @version 0.1
- * @date 2021-07-11
- *
- * @copyright Copyright (c) 2021
- *
+ * @brief 
+ * 
+ * @param you 
+ * @param comp 
+ * @return int 
  */
-#include<stdio.h>
-#include<stdlib.h>
+#include<../inc/snakewatergun.h>
 int SWG(char you,char comp)
 {
         if(you==comp)
@@ -55,6 +51,4 @@ int SWG(char you,char comp)
             printf("YOU WON\n");
             return 1;
         }
-
 }
-
