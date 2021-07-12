@@ -48,19 +48,13 @@ This type of game is played when there wont be any internet connection you have 
 ###### Low Level Requirements:
 | ID  | Description        | Status (Implemented/Future)       |
 | :-------| :----------: | -----------: |
-|  01      |   Display - List of operations available |  Implemented    |
-|  02      |   Input - Choice of operation |  Implemented    |
-|  03      |   Input - Order of matrix |  Implemented    |
-|  04      |   Input - Matrix elements |  Implemented    |
-|  05      |   Addition of 2 matrices|  Implemented    |
-|  06      |   Difference of one matrix from other |  Implemented    |
-|  07      |   Multiplication of 2 matrices |  Implemented    |
-|  08      |   Transpose of a matrix |  Implemented    |
-|  09      |   Determinant of a matrix |  Implemented    |
-|  10      |   Inverse of a matrix |  Implemented    |
-|  11      |   Output - Resultant matrix | Implemented      |
-|  12      |  Display Choice - To terminate program or go to main menu again  |  Implemented    |
-|  13     |   User Input - Choice to terminate or return to main menu |  Implemented    |
+|  01      |   Display - how many number of times you want to play |  Implemented    |
+|  02      |   Input - Choice of option 'S=Snake' , 'W=Water' , 'G=Gun" |  Implemented    |
+|  03      |   output - | computer chooses an option 'S=Snake' , 'W=Water' , 'G=Gun"| Implemented    |
+|  04      |   output - | you win/Loose/Draw Computer win/Loose/Draw |  Implemented    |
+|  05      |   output - | Score of that particular round -1 0 or 1 for lose draw win respectively|  Implemented    |
+|  06      |   output - |your final score         |  Implemented    |
+
 
 
 
