@@ -2,10 +2,8 @@
 ## Introduction
 Snake Water Gun is one of the famous two-player games played by many children. It is very much similar to the Stone Paper Scissor game. It is a game in which the player randomly chooses any of the three forms i.e. snake(S), water(W), and gun(G).
 ## Research
-![Description](Link to Pic)
 Here, we have implemented this game using the C random module, if-else statements, This C project is to build a game for a single player that plays with the computer . 
 ## Cost and Features and Timeline
-
 The cost of the system is defined upon how many times the user wants to play the game.Features such as winning sound loosing sound and tie breaker sound can also be added to make the application little advanced. We can make this game interesting by making it playable online by increasing the user limit in database and also if somone leaves in between the game the plyaer automatically looses. Since this is an offline game and playable only between computer and user this game is free of cost.
 ## Rules of the Game
 These are the rules need to be followed while playing this game:
