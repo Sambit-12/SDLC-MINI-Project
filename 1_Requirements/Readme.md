@@ -46,14 +46,14 @@ This type of game is played when there wont be any internet connection you have 
 |  03             | Final Output | Implemented |
 
 ###### Low Level Requirements:
-| ID  | Description        | Status (Implemented/Future)       |
-| :-------| :----------: | -----------: |
-|  01      |   Display - how many number of times you want to play |  Implemented    |
-|  02      |   Input - Choice of option 'S=Snake' , 'W=Water' , 'G=Gun" |  Implemented    |
-|  03      |   output - | computer chooses an option 'S=Snake' , 'W=Water' , 'G=Gun"| Implemented    |
-|  04      |   output - | you win/Loose/Draw Computer win/Loose/Draw |  Implemented    |
-|  05      |   output - | Score of that particular round -1 0 or 1 for lose draw win respectively|  Implemented    |
-|  06      |   output - |your final score         |  Implemented    |
+| ID       |  Description                                                                        |  Status (Implemented/Future) |      
+| :------- | :----------:| -----------                                                           |
+|  01      |   Display - |how many number of times you want to play                              |       Implemented            |                        
+|  02      |   Input -   |Choice of option 'S=Snake' , 'W=Water' , 'G=Gun"                       |       Implemented            |
+|  03      |   output -  |computer chooses an option 'S=Snake' , 'W=Water' , 'G=Gun"             |       Implemented            |
+|  04      |   output -  |You win/Loose/Draw Computer win/Loose/Draw                             |       Implemented            |
+|  05      |   output -  |Score of that particular round -1 0 or 1 for lose draw win respectively|       Implemented            |
+|  06      |   output -  |your final score                                                       |       Implemented            |
 
 
 
