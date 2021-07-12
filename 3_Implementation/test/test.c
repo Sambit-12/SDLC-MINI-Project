@@ -38,43 +38,43 @@ void test_SWG1(void) {
   
    //check
    
-   TEST_ASSERT_EQUAL(0, SWG(s,s));
+   TEST_ASSERT_EQUAL(0, SWG('s','s'));
 }
 void test_SWG2(void) {
   
    //check
    
-   TEST_ASSERT_EQUAL(1, SWG(s,w));
+   TEST_ASSERT_EQUAL(1, SWG('s','w'));
 }
 void test_SWG3(void) {
   
    //check
    
-   TEST_ASSERT_EQUAL(-1, SWG(w,s));
+   TEST_ASSERT_EQUAL(-1, SWG('w','s'));
 }
 void test_SWG4(void) {
   
    //check
    
-   TEST_ASSERT_EQUAL(1, SWG(w,g));
+   TEST_ASSERT_EQUAL(1, SWG('w','g'));
 }
 void test_SWG5(void) {
   
    //check
    
-   TEST_ASSERT_EQUAL(-1, SWG(g,w));
+   TEST_ASSERT_EQUAL(-1, SWG('g','w'));
 }
 void test_SWG6(void) {
   
    //check
    
-   TEST_ASSERT_EQUAL(-1, SWG(s,g));
+   TEST_ASSERT_EQUAL(-1, SWG('s','g'));
 }
 void test_SWG7(void) {
   
    //check
    
-   TEST_ASSERT_EQUAL(1, SWG(g,s));
+   TEST_ASSERT_EQUAL(1, SWG('g','s'));
 }
 
 
