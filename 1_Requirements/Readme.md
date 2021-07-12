@@ -15,7 +15,7 @@ The cost of the system is defined upon how many times the user wants to play the
   ![flowchart Snake Water Gun](https://user-images.githubusercontent.com/86225003/125267438-6fdcc800-e324-11eb-9d81-5949eb203b4c.jpg)
 
 ## SWOT ANALYSIS
-![SWOT ANALYSIS](https://github.com/Sambit-12/github-slideshow/1_Requirements/SWOT ANALYSIS.jpg)
+![SWOT-ANALYSIS](https://github.com/Sambit-12/github-slideshow/1_Requirements/SWOT%20ANALYSIS.jpg)
 
 
 # 4W&#39;s and 1&#39;H
