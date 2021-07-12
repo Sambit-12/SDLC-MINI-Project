@@ -5,8 +5,8 @@ Build Check | Code Quality | Unit Testing | Contribution Check
 [![C/C++ CI](https://github.com/Sambit-12/github-slideshow/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/Sambit-12/github-slideshow/actions/workflows/c-cpp.yml) | [![Static Cppcheck](https://github.com/Sambit-12/github-slideshow/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Sambit-12/github-slideshow/actions/workflows/cppcheck.yml) [![Dynamic Valgrind](https://github.com/Sambit-12/github-slideshow/actions/workflows/CodeQuality_Dynamic.yml/badge.svg)](https://github.com/Sambit-12/github-slideshow/actions/workflows/CodeQuality_Dynamic.yml) [![CI-Code Coverage](https://github.com/Sambit-12/github-slideshow/actions/workflows/gcov.yml/badge.svg)](https://github.com/Sambit-12/github-slideshow/actions/workflows/gcov.yml) | [![Unity - Unit Testing](https://github.com/Sambit-12/github-slideshow/actions/workflows/unity.yml/badge.svg)](https://github.com/Sambit-12/github-slideshow/actions/workflows/unity.yml)| [![Git Inspector](https://github.com/Sambit-12/github-slideshow/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/Sambit-12/github-slideshow/actions/workflows/gitinspector.yml)
 
 
-![](https://www.code-inspector.com/project/24716/score/svg)
-![](https://www.code-inspector.com/project/24716/status/svg)
+![Code Inspector Score](https://www.code-inspector.com/project/24716/score/svg)
+![Code Inspector Badge](https://www.code-inspector.com/project/24716/status/svg)
 <a href="https://frontend.code-inspector.com/public/user/github/Sambit-12">
    <img src="https://code-inspector.com/public/badge/user/github/Sambit-12?style=light" alt="code inspector badge" /> 
    
