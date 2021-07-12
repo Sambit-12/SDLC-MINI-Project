@@ -21,31 +21,23 @@ The cost of the system is defined upon how many times the user wants to play the
 # 4W&#39;s and 1&#39;H
 
 ## Who:
-
-**TBD**
+All Age Groups whomsoever wants to play with computer can play, Testing team and Developers improvise the code and play among themselves.
 
 ## What:
-
-**TBD**
+A simultaneous, zero-sum game, it has only two possible outcomes: a draw, or a win for one player and a loss for the other. A player who decides to play Snake will beat another player who has chosen water ("As snake Drinks the water"]), but will lose to one who has gun ("gun will absorb water");.If both players choose the same shape, the game is tied and is usually immediately replayed to break the tie. The type of game originated in China and spread with increased contact with East Asia, while developing different variants in signs over time.
 
 ## When:
-
-**TBD**
+when you want to come to an conclusion among your friends to get a winner.
 
 ## Where:
-
-**TBD**
+This type of game is played when there wont be any internet connection you have to just run the code and you can play without any software updates or not even installing excess files with huge storage capacity.
 
 ## How:
-
-**TBD**
-
-# Detail requirements
-## High Level Requirements:
---- TBD in Tabular Format 
--- ID | Description | Status (Implemented/Future)
+1.Select the no of times you want to play.
+2 Choose the options amnong S=Snake, W=Water, G=Gun
+3 In each round your scores will be displayed till the time user chose to play.
+4 Final score will be displayed indicates you lost or its a draw or you won by values -Ve , 0 and +ve respectively.
 
 
-##  Low level Requirements:
---- TBD in Tabular Format 
--- ID | Description | Status (Implemented/Future)
+
+
