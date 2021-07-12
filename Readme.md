@@ -31,7 +31,7 @@ Folder             | Description
 
 Sf.Id |  Name        |    Features         | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass|
 -------|-------------|---------------------|----------------|---------------|-------------|--------------|
-302954 | Sambit Nayak|Snake Water Gun game |    0           |   0           |   3         |  3           |
+302954 | Sambit Nayak|Snake Water Gun game |    0           |   0           |     7       |     7        |
 
 ## Challenges Faced and How Was It Overcome
 ><p> 1.If the game has been played multiple times without stopping, then print the total number of times the game has played, as well as how many times the user wins and loses with a number of draws.</p>
