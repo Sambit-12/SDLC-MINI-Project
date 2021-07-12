@@ -1,4 +1,9 @@
 # SDLC Activity Based Learning
+
+Build Check | Code Quality | Unit Testing | Contribution Check
+-----------|----------|---------|----------------
+[![C/C++ CI](https://github.com/Sambit-12/github-slideshow/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/Sambit-12/github-slideshow/actions/workflows/c-cpp.yml) | [![Static Cppcheck](https://github.com/Sambit-12/github-slideshow/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Sambit-12/github-slideshow/actions/workflows/cppcheck.yml) [![Dynamic Valgrind](https://github.com/Sambit-12/github-slideshow/actions/workflows/CodeQuality_Dynamic.yml/badge.svg)](https://github.com/Sambit-12/github-slideshow/actions/workflows/CodeQuality_Dynamic.yml) [![CI-Code Coverage](https://github.com/Sambit-12/github-slideshow/actions/workflows/gcov.yml/badge.svg)](https://github.com/Sambit-12/github-slideshow/actions/workflows/gcov.yml) | [![Unity - Unit Testing](https://github.com/Sambit-12/github-slideshow/actions/workflows/unity.yml/badge.svg)](https://github.com/Sambit-12/github-slideshow/actions/workflows/unity.yml)| [![Git Inspector](https://github.com/Sambit-12/github-slideshow/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/Sambit-12/github-slideshow/actions/workflows/gitinspector.yml)
+
 Snakewatergun game by the use of c programming language and functions.
 </p> 
 <p align="center"><img src="https://img.shields.io/badge/Author Sambit Nayak-green.svg"> 
