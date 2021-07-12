@@ -29,7 +29,8 @@ void test_SWG7(void);
 
 /* Write all the test functions */ 
 /**
- * @brief Since the project uses concept of pointer and the functions doesn't take any input parameters and return 0 value, the teting is done to check 0 return value of all fuctions.
+ * @brief In this project user ables to choose between S W G for Snake Water Gun respectiveley after that computer chooses and then points is displayed so to test the user input and computer input
+ * and computer input using if else C random file we are using test case in this project.
  * 
  */
 
