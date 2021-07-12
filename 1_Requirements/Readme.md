@@ -33,10 +33,10 @@ when you want to come to an conclusion among your friends to get a winner.
 This type of game is played when there wont be any internet connection you have to just run the code and you can play without any software updates or not even installing excess files with huge storage capacity.
 
 ## How:
-1.Select the no of times you want to play.
-2 Choose the options amnong S=Snake, W=Water, G=Gun
-3 In each round your scores will be displayed till the time user chose to play.
-4 Final score will be displayed indicates you lost or its a draw or you won by values -Ve , 0 and +ve respectively.
+><p> 1.Select the no of times you want to play.</p>
+><p> 2.Choose the options amnong S=Snake, W=Water, G=Gun</p>
+><p> 3.In each round your scores will be displayed till the time user chose to play.</p>
+><p> 4.Final score will be displayed indicates you lost or its a draw or you won by values -Ve , 0 and +ve respectively.</p>
 
 
 
