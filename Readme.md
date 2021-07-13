@@ -8,9 +8,10 @@ Build Check | Code Quality | Unit Testing | Contribution Check
 ![Code Inspector Score](https://www.code-inspector.com/project/24716/score/svg)
 ![Code Inspector Badge](https://www.code-inspector.com/project/24716/status/svg)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/7dffc948fc3e43cf85089792b1c3c20a)](https://www.codacy.com/gh/Sambit-12/github-slideshow/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Sambit-12/github-slideshow&amp;utm_campaign=Badge_Grade)
-<a href="https://frontend.code-inspector.com/public/user/github/Sambit-12">
+</p> 
+<p align="center"><a href="https://frontend.code-inspector.com/public/user/github/Sambit-12">
    <img src="https://code-inspector.com/public/badge/user/github/Sambit-12?style=light" alt="code inspector badge" /> 
- 
+ </p>
    
    
    ><p>Snakewatergun game by the use of c programming language and functions.</p>
