@@ -41,6 +41,6 @@ Sf.Id |  Name        |    Features         | Issuess Raised |Issues Resolved|No 
 
 ## Learning Resources
 1. https://www.codesnail.com/snake-water-gun-game-using-python/
-
+2. https://www.instructables.com/Snake-Water-Gun/
 
 
