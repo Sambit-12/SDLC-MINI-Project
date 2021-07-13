@@ -2,6 +2,7 @@
 
 Build Check | Code Quality | Unit Testing | Contribution Check
 -----------|----------|---------|----------------
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/fafdae1f2b4e4ade97a9ff3971b35605)](https://app.codacy.com/gh/Sambit-12/github-slideshow?utm_source=github.com&utm_medium=referral&utm_content=Sambit-12/github-slideshow&utm_campaign=Badge_Grade_Settings)
 [![C/C++ CI](https://github.com/Sambit-12/github-slideshow/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/Sambit-12/github-slideshow/actions/workflows/c-cpp.yml) | [![Static Cppcheck](https://github.com/Sambit-12/github-slideshow/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Sambit-12/github-slideshow/actions/workflows/cppcheck.yml) [![Dynamic Valgrind](https://github.com/Sambit-12/github-slideshow/actions/workflows/CodeQuality_Dynamic.yml/badge.svg)](https://github.com/Sambit-12/github-slideshow/actions/workflows/CodeQuality_Dynamic.yml) [![CI-Code Coverage](https://github.com/Sambit-12/github-slideshow/actions/workflows/gcov.yml/badge.svg)](https://github.com/Sambit-12/github-slideshow/actions/workflows/gcov.yml) | [![Unity - Unit Testing](https://github.com/Sambit-12/github-slideshow/actions/workflows/unity.yml/badge.svg)](https://github.com/Sambit-12/github-slideshow/actions/workflows/unity.yml)| [![Git Inspector](https://github.com/Sambit-12/github-slideshow/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/Sambit-12/github-slideshow/actions/workflows/gitinspector.yml)
 
 
